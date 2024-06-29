@@ -28,6 +28,7 @@ dependencies:
   cloud_firestore: ^5.0.2
   shared_preferences: ^2.0.6
   flutter_native_splash:
+  rename_app: ^1.6.1
 
  
 
